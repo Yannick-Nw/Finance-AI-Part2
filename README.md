@@ -1,5 +1,7 @@
 # Finance Machine Learning Projects
 
+Part 1: https://github.com/Yannick-Nw/Finance-AI-Part1
+
 This repository contains three distinct machine learning projects focusing on finance, each contributed by a different author. The projects are as follows:
 
 ## Table of Contents
